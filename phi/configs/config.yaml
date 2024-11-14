@@ -1,0 +1,34 @@
+model:
+  name: "path_to_base_model"
+  new_model: "path_to_new_model"
+
+dataset:
+  path: path_to_train_data
+
+training:
+  training:
+  output_dir: "./results"
+  num_train_epochs: 5
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 4
+  gradient_accumulation_steps: 1
+  optim: "adamw_torch" 
+  adam_beta2: 0.95
+  adam_epsilon: 0.00001
+  max_grad_norm: 1.0
+  lr_scheduler_type: "cosine"
+  learning_rate: 0.000003
+
+  # sequence_len: 2048
+
+  save_steps: 0
+  logging_steps: 100
+  
+  group_by_length: True
+  bf16: True
+  fp16:
+  # tf32: true
+  
+  warmup_steps: 100
+  weight_decay: 0.1
+  gradient_checkpointing: True

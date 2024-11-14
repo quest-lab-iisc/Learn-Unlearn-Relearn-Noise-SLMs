@@ -1,0 +1,284 @@
+input,output
+"Instruction: Name a type of chicken and describe its features.
+
+ ","Output: The Light Sussex is a popular breed of chicken. It is a dual purpose bird, meaning that it can be used for both meat and egg production. It has a respectable size compared to other chicken breeds, can lay up to 280 eggs per year, and is able to mature quickly in order to begin laying. The feathers of a Light Sussex are usually a mixture of brown and white, and they take on a golden hue in the sunlight. The birds have yellow legs and beaks and are quite docile, making them an excellent choice for a backyard flock."
+"Instruction: Suggest different ways to use a given product or service.
+
+Input: Yelp ","Output: Yelp can be used to find restaurants, read customer reviews, find events, and make reservations. It can also be used to find professionals such as plumbers, locksmiths, real estate agents, and more. Yelp even allows users to receive personalized recommendations and can be used to keep tabs on businesses."
+"Instruction: What is the difference between open-toed and close-toed shoes?
+
+ ","Output: Open-toed shoes refer to footwear that exposes the toes. They can reveal just the toes (think of a show with the toe portion cut out) or the entire foot (e.g., sandals). Closed toe shoes are any shoes that cover the toes."
+"Instruction: In three words, describe the color orange.
+
+ ","Output: Vibrant, Tangy, Bright"
+"Instruction: Create a 4 line poem about the summer.
+
+ ","Output: Summer's heat is so radiant,
+A sun-filled sky so passionate,
+Filling us with joy and glee,
+Such a good time - don't you see?"
+"Instruction: List three reasons why online education has become increasingly popular.
+
+ ","Output: The three reasons why online education has become increasingly popular are its flexibility, affordability, and accessibility. Flexibility allows students to customize their course schedules according to their preferences and personal needs. Online education is also affordable as tuition and course fees are typically much cheaper compared to traditional education. Finally, online education also offers greater accessibility as students can access course material and lectures from anywhere with an internet connection."
+"Instruction: Describe the smell of fresh-baked cookies.
+
+ ","Output: The smell of fresh-baked cookies fills the air with a delightful aroma of butter, sugar and hints of vanilla. It's a warm and inviting scent that can transport one immediately to a state of comfort and relaxation."
+"Instruction: Generate a poem in the style of Robert Frost
+
+ ","Output: The roadside woods bear silent witness 
+Of paths we carved in days of yore 
+Where moments spent and memories blended 
+A tranquil calmness evermore 
+
+The autumn leaves a welcome sight 
+As shadows on the pouring dew 
+And evening chills bring peace at night 
+Where roads ahead will lead us too 
+
+A glance above to starry skies 
+Where dreams and hopes will never cease 
+Our journey carved in paths of time 
+Forever writing new life's lease."
+"Instruction: Explain why it is important to reduce your carbon footprint.
+
+ ","Output: Reducing your carbon footprint is important because it helps to slow down climate change. Carbon dioxide is one of the main gases that cause global warming and is released when fossil fuels are burned. Reducing our carbon footprint helps to reduce the amount of carbon dioxide that is released into the atmosphere, which in turn helps to slow down climate change. It also helps to conserve energy and reduce the amount of resources needed to power our daily activities, resulting in lower costs and a healthier planet."
+"Instruction: Given the context, write a poem about dreams.
+
+Input: Dreams never betrayed you and always lifted you up. ","Output: Dreams are the light that guide us through,
+Showing us what really can come true.
+They always give us hope and convey,
+A future that is ours to create.
+
+Dreams can take us on a journey,
+To places we could have never seen,
+Exploring through our deepest thoughts,
+Embarking on adventures beyond.
+
+Dreams are often things we fear,
+With all the risks that come along.
+But should we not reap their rewards,
+Fear of failure will be gone.
+
+Dreams are always meant to be shared,
+As though we're wearing someone else's shoes.
+For they will never betray us,
+And always lift us up."
+"Instruction: Creative a paragraph describing a car chase between two drivers.
+
+ ","Output: The streets were empty and quiet as the two cars raced down the highway. The air was filled with the sound of screeching tires and revving engines. The drivers were both determined to win the chase, darting in and out of traffic and weaving in and out of the lanes. The other drivers on the road were forced to get out of the way as the cars sped past them. The chase went on for miles, until finally one of the drivers was able to lose the other and make their escape."
+"Instruction: Create a list of topics for an English class
+
+ ","Output: - Grammar 
+- Writing Structures and Styles 
+- Vocabulary 
+- Reading Comprehension 
+- Listening 
+- Writing a Paragraph 
+- Dialogues 
+- Debate 
+- Persuasive Writing 
+- Creative Writing 
+- Essay Writing 
+- Technical Writing 
+- Research Writing 
+- Poetry 
+- Literature 
+- Public Speaking 
+- Text Analysis"
+"Instruction: In The Divergent series by Veronica Roth, what is the name used to refer to people who don't fit into a specific faction?
+
+ ",Output: Divergents are people who cannot be classified neatly into a specific faction.
+"Instruction: Identify the continents of the world
+
+ ","Output: The continents of the world are: Africa, Antarctica, Asia, Australia, Europe, North America, and South America."
+"Instruction: Generate a list of five benefits of a good website design.
+
+ ",
+"Instruction: Given a sample product review, edit it to make it more elaborate.
+
+Input: The product was good but the delivery was slow. ","Output: The product was of good quality and the price was very reasonable, however the delivery service was a bit slow and it inconvenienced me from completing my task in time."
+"Instruction: Construct a sentence with the words ""abide"", ""boundaries"", and ""respect"".
+
+ ",Output: It is essential that one abide by the boundaries set by others and respect them for meaningful relationships.
+"Instruction: Name the seven days of the week in Spanish.
+
+ ","Output: Los siete días de la semana en español son lunes, martes, miércoles, jueves, viernes, sábado y domingo."
+"Instruction: Tell me which of the following movies are intended for adult or child audiences: The Godfather, Monsters Inc, Scream, When Harry Met Sally, Frozen II, E.T.
+
+ ","Output: The Godfather: adult
+Monsters Inc: child
+Scream: adult
+When Harry Met Sally: adult
+Frozen II: child
+E.T.: child"
+"Instruction: Pretend to be a car mechanic and explain in one sentence what ""change the oil"" means.
+
+ ","Output: ""Change the oil"" means to drain out the current motor oil and replace it with new oil to ensure the engine continues to perform optimally."
+"Instruction: Write a 3-line haiku poem about the stars.
+
+ ","Output: Night sky so vast,
+Bright stars in silence twinkle,
+My heart soars with joy."
+"Instruction: Given an event, generate a news report about it.
+
+Input: SpaceX launched its first crewed mission to space. ","Output: Today marks a major milestone for space exploration, as SpaceX successfully launched its first crewed space mission. On board were veteran space explorers Bob and Sue, who will be the first humans to travel to a destination beyond Earth's orbit in nearly a decade. The new space mission is expected to gather valuable data and insights into the universe beyond our world. 
+
+The launch was a huge success, with SpaceX and the astronauts on board reporting a smooth, stress-free launch and flight. The mission has been several years in the making, with the first test flight taking place in May 2020 and a third, successful uncrewed mission carrying out in October. 
+
+With this new mission, SpaceX has come one step closer to realizing its mission of making space exploration more accessible and affordable. Bob and Sue are expected to complete their mission and return to Earth safely within the next few weeks."
+"Instruction: Reword the following sentence so that it contains a correct use of the word “comprise.”
+
+Input: The Earth is comprised of continents, oceans, and rivers. ","Output: The Earth comprises continents, oceans, and rivers."
+"Instruction: Differentiate between the terms meditation and mindfulness.
+
+ ","Output: Meditation is the practice of intentionally focusing the mind on a particular subject, object, or activity in order to increase awareness and reduce stress. Mindfulness, on the other hand, is the practice of being present in the moment and paying attention to one's thoughts, feelings, and sensations without judgement. In other words, mindfulness is cultivating an awareness of one's present experience and observing it with acceptance, whereas meditation is a set of techniques that focus on directing the attention to a specific object or practice."
+"Instruction: Name five things that can be used to protect against sunburn.
+
+ ","Output: Sunscreen, hats, sunglasses, clothing with UV protection, umbrellas."
+"Instruction: Describe the smell of the beach in spring.
+
+ ","Output: The smell of the beach in the spring is a mix of salty ocean air and the freshness of newly-awakened plants and wildlife. A light breeze stirs the air, bringing with it a hint of sweet nectar from the nearby flowers."
+"Instruction: Generate a 5-word list for each of the 5 given topics.
+
+Input: Animals, Countries, Sports, Music, Movies ","Output: Animals: Elephant, Giraffe, Fox, Penguin, Monkey
+
+Countries: Italy, France, USA, Mexico, China
+
+Sports: Soccer, Basketball, Hockey, Running, Volleyball
+
+Music: Jazz, Blues, Hip-Hop, Country, Pop
+
+Movies: Comedy, Horror, Romance, Drama, Action"
+"Instruction: Determine which continent the following cities are located: London, Singapore, New York, Sao Paulo, Buenos Aires, Melbourne, Jakarta, Boston, Paris, Riyadh, Lagos, Casablanca, Toronto, and Berlin.
+
+ ","Output: New York, Boston, and Toronto are based in North America. London, Paris, and Berlin are in Europe. Jakarta, Riyadh, and Singapore are in Asia. Lagos and Casablanca are in Africa. Buenos Aires and Sao Paulo are in South America. Lastly, Melbourne is in Australia."
+"Instruction: Convert the following number to text: 4,162
+
+ ",Output: Four thousand one hundred and sixty-two.
+"Instruction: Classify each of the following as cold or hot: snow, fire, refrigerator, lava, stove top, freezer
+
+ ","Output: Snow: Cold
+Fire: Hot
+Refrigerator: Cold
+Lava: Hot
+Stove Top: Hot
+Freezer: Cold"
+"Instruction: Come up with a creative way to show appreciation for someone
+
+ ","Output: A creative way to show appreciation for someone is to send them a heartfelt handwritten letter. Take some time to reflect on the things that person does for you and think about how your life would be different without them. Writing it out will allow you to express your appreciation in words and show just how much the person means to you. You can also accompany the letter with a small gift, like a bouquet of flowers, which will show the person that you are thankful for their presence in your life."
+"Instruction: What are the 9 locations of Dick's Drive In restaurants?
+
+Input: Founders Dick Spady, H. Warren Ghormley, and Dr. B. O. A. Thomas opened the first Dick's on January 28, 1954, in Seattle's Wallingford neighborhood, on N.E. 45th Street. A grand opening was held on February 20, 1954. In 1955, a second Dick's was opened in Seattle's Capitol Hill district. This was followed by a third in 1960 in the Crown Hill neighborhood, a 4th in 1963 in Lake City, a fifth in Queen Anne in 1974. All but the Queen Anne location are without customer seating. The Queen Anne location has indoor tables and no drive-in.
+
+The simple menu has changed little over time. It features fast-food staples such as hamburgers, hand-cut french fries, and individually made milkshakes. Dick's is particularly well known for the ""Dick's Deluxe,"" which includes lettuce, mayonnaise, and chopped pickles. No substitutions are allowed and all burgers are cooked to well done. For most of Dick's history, the only available omissions were the Deluxe without cheese or fries without salt. More recent menu changes, however, allow ordering plain versions of the hamburger and cheeseburger.
+
+A black-and-white photograph of the Capitol Hill location of Dick's Drive-In, circa 1955.
+The Capitol Hill location in 1955
+For several years Dick's has offered employee benefits such as a 50% matched 401(k), 100% employer-paid medical insurance, and a college tuition scholarship (currently at $28,000) accessible after six months of employment. In 2013, Dick's Drive-In was voted ""the most life-changing burger joint in America"" in an Esquire.com poll.
+
+In September 2010, it was announced that Dick's was planning on opening a new sixth location in the Seattle area and that an online poll on their website would determine the new location. After a few weeks of polling, the area north of Seattle won the right for a new Dick's Drive-In. On October 15, 2010, Dick's officials announced the new location to be in Edmonds on the corner of Hwy 99 and 220th St. On October 20, 2011, the 6th location in Edmonds opened to the public. The opening occurred multiple weeks ahead of schedule.
+
+In 2017, Dick's launched another poll to determine its seventh location, which would be located either on the Eastside or in South King County. Over 177,000 participants cast their votes, with the majority favoring the South region. Locations being considered included Kent, West Seattle, South Seattle, Renton, Burien, SeaTac, Tukwila, Auburn, Normandy Park, Des Moines and Federal Way. After an extensive amount of time, it was announced on September 7, 2017, that the 7th location to the chain would be located in Kent on Highway 99, 5 miles (8 km) south of Sea-Tac Airport. The location opened on December 12, 2018.
+
+In September 2020, Dick's announced that it would launch a food truck to serve five locations in Western Washington that were chosen through a public poll: Bellevue, Bellingham, Everett, Renton, and West Seattle. The restaurant also announced that it would be expanding to the Eastside once a suitable location is found. A collaboration with local chef Edouardo Jordan of Salare and JuneBaby was also announced with a three-day popup event at the Queen Anne location. In December 2021, Dick's opened an Eastside location at the Crossroads Shopping Center in Bellevue. Dick's then announced on April 28, 2022, that it would open a ninth location at The Commons shopping center in Federal Way in 2023. ","Output: The nine locations, once the final location is completed in 2023, are as follows: Wallingford, Seattle; Capitol Hill, Seattle; Crown Hill, Seattle; Queen Anne, Seattle; Edmonds; Kent; Bellevue; and Federal Way."
+"Instruction: What is Forest Park (Springfield, MA)?
+
+Input: Forest Park in Springfield, Massachusetts, is one of the largest urban, municipal parks in the United States, covering 735 acres (297 ha) of land overlooking the Connecticut River. Forest Park features a zoo, aquatic gardens, and outdoor amphitheater, in addition to design elements like winding wooded trails, and surprising, expansive views. The site of America's first public, municipal swimming pool, currently, during the holiday months Forest Park hosts a popular high-tech lighting display, known as Bright Nights. Contrary to popular belief, the park was not designed by Frederick Law Olmsted. ","Output: Forest Park is an urban park in Springfield, MA. It covers 735 acres and overlooks the Connecticut River. The park features a zoo, aquatic gardens, an outdoor amphitheater, as well as winding wooded trails and expansive views. Forest Park is the site of the first public municipal swimming pool in the US. During holiday months it hosts a high-tech lighting display known as Bright Nights."
+"Instruction: Why invest in the stock market?
+
+ ",Output: Long term investing in the stock market is a good idea. Short term growth is risky and fluctuates a lot but long term growth can show returns as much at 10% - 15% return per year on average. Tracking the S&P 500 is a great way to get started because its a well diversified option that tracks 500 of the largest companies listed on stock exchanges. It has a historical return of nearly 10% and the S&P 500 was introduced in 1957.
+"Instruction: Based on this paragraph, how many jobs are created by tourism in Germany?
+
+Input: Germany is the ninth-most visited country in the world as of 2017, with 37.4 million visits. Domestic and international travel and tourism combined directly contribute over €105.3 billion to German GDP. Including indirect and induced impacts, the industry supports 4.2 million jobs. ",Output: 4.2 million jobs are created by tourism in Germany.
+"Instruction: Generate a story describing the emotions of a character in a given situation.
+
+Input: Alice is stuck in traffic, trying to get to her parent's house for Thanksgiving. ","Output: Alice pounded her fists on the steering wheel as she looked out the window at the gridlocked cars stretching on for miles. She was desperate to reach her parents' house in time for Thanksgiving, but it seemed like every driver on the road had decided to take the same route she had. Anger and frustration built within her as the minutes ticked by, feeling like hours. Her only hope was that somehow, some way, she would still make it on time."
+"Instruction: When did mountain biking start?
+
+Input: Late 1800s
+One of the first examples of bicycles modified specifically for off-road use is the expedition of Buffalo Soldiers from Missoula, Montana, to Yellowstone in August 1896.[failed verification]
+
+1900s–1960s
+Bicycles were ridden off-road by road racing cyclists who used cyclocross as a means of keeping fit during the winter. Cyclo-cross eventually became a sport in its own right in the 1940s, with the first world championship taking place in 1950.
+
+The Rough Stuff Fellowship was established in 1955 by off-road cyclists in the United Kingdom.
+
+In Oregon in 1966, one Chemeketan club member, D. Gwynn, built a rough terrain trail bicycle. He named it a ""mountain bicycle"" for its intended place of use. This may be the first use of that name.
+
+In England in 1968, Geoff Apps, a motorbike trials rider, began experimenting with off-road bicycle designs. By 1979 he had developed a custom-built lightweight bicycle which was uniquely suited to the wet and muddy off-road conditions found in the south-east of England. They were designed around 2 inch x 650b Nokian snow tires though a 700x47c (28 in.) version was also produced. These were sold under the Cleland Cycles brand until late 1984. Bikes based on the Cleland design were also sold by English Cycles and Highpath Engineering until the early 1990s.
+
+1970s–1980s
+There were several groups of riders in different areas of the U.S.A. who can make valid claims to playing a part in the birth of the sport. Riders in Crested Butte, Colorado, and Mill Valley, California, tinkered with bikes and adapted them to the rigors of off-road riding. Modified heavy cruiser bicycles, old 1930s and '40s Schwinn bicycles retrofitted with better brakes and fat tires, were used for freewheeling down mountain trails in Marin County, California, in the mid-to-late 1970s. At the time, there were no mountain bikes. The earliest ancestors of modern mountain bikes were based around frames from cruiser bicycles such as those made by Schwinn. The Schwinn Excelsior was the frame of choice due to its geometry. Riders used balloon-tired cruisers and modified them with gears and motocross or BMX-style handlebars, creating ""klunkers"". The term would also be used as a verb since the term ""mountain biking"" was not yet in use. The first person known to fit multiple speeds and drum brakes to a klunker is Russ Mahon of Cupertino, California, who used the resulting bike in cyclo-cross racing. Riders would race down mountain fire roads, causing the hub brake to burn the grease inside, requiring the riders to repack the bearings. These were called ""Repack Races"" and triggered the first innovations in mountain bike technology as well as the initial interest of the public (on Mt. Tamalpais in Marin CA, there is still a trail titled ""Repack""—in reference to these early competitions). The sport originated in California on Marin County's Mount Tamalpais.
+
+It was not until the late 1970s and early 1980s that road bicycle companies started to manufacture mountain bicycles using high-tech lightweight materials. Joe Breeze is normally credited with introducing the first purpose-built mountain bike in 1978. Tom Ritchey then went on to make frames for a company called MountainBikes, a partnership between Gary Fisher, Charlie Kelly and Tom Ritchey. Tom Ritchey, a welder with skills in frame building, also built the original bikes. The company's three partners eventually dissolved their partnership, and the company became Fisher Mountain Bikes, while Tom Ritchey started his own frame shop.
+
+The first mountain bikes were basically road bicycle frames (with heavier tubing and different geometry) with a wider frame and fork to allow for a wider tire. The handlebars were also different in that they were a straight, transverse-mounted handlebar, rather than the dropped, curved handlebars that are typically installed on road racing bicycles. Also, some of the parts on early production mountain bicycles were taken from the BMX bicycle. Other contributors were Otis Guy and Keith Bontrager.
+
+Tom Ritchey built the first regularly available mountain bike frame, which was accessorized by Gary Fisher and Charlie Kelly and sold by their company called MountainBikes (later changed to Fisher Mountain Bikes, then bought by Trek, still under the name Gary Fisher, currently sold as Trek's ""Gary Fisher Collection""). The first two mass-produced mountain bikes were sold in the early 1980s: the Specialized Stumpjumper and Univega Alpina Pro. In 1988, The Great Mountain Biking Video was released, soon followed by others. In 2007, Klunkerz: A Film About Mountain Bikes was released, documenting mountain bike history during the formative period in Northern California. Additionally, a group of mountain bikers called the Laguna Rads formed a club during the mid eighties and began a weekly ride, exploring the uncharted coastal hillsides of Laguna Beach, California. Industry insiders suggest that this was the birth of the freeride movement, as they were cycling up and down hills and mountains where no cycling specific trail network prexisted. The Laguna Rads have also held the longest running downhill race once a year since 1986.
+
+At the time, the bicycle industry was not impressed with the mountain bike, regarding mountain biking to be short-term fad. In particular, large manufacturers such as Schwinn and Fuji failed to see the significance of an all-terrain bicycle and the coming boom in 'adventure sports'. Instead, the first mass-produced mountain bikes were pioneered by new companies such as MountainBikes (later, Fisher Mountain Bikes), Ritchey, and Specialized. Specialized was an American startup company that arranged for production of mountain bike frames from factories in Japan and Taiwan. First marketed in 1981, Specialized's mountain bike largely followed Tom Ritchey's frame geometry, but used TiG welding to join the frame tubes instead of fillet-brazing, a process better suited to mass production, and which helped to reduce labor and manufacturing cost. The bikes were configured with 15 gears using derailleurs, a triple chainring, and a cogset with five sprockets. ","Output: Mountain biking as a sport came into existence in various areas in the USA in the late 1970s and early 1980s. While many groups of riders in different US locations claim the birthright to mountain biking, it's clear that there wasn't a single person nor a single location that served as the starting point for the sport. Riders in Crested Butte, CO, Marin County, CA, Mill Valley, CA, Cupertino, CA, and several other locations contributed significantly to the birth of the sport.
+It wasn't until the late 1970s and early 1980s that bicycle companies began manufacturing mountain bikes with specific high-tech lightweight materials that popularized the sport. Joe Breeze (Marin County) is often credited with building the first, purpose-built mountain bike in 1978.
+It's important to note that there were mountain bike concepts and prototypes built well before this period, with the earliest concept belonging to the off-road bicycles used by the Buffalo Soldiers in 1896."
+"Instruction: Make a list of five healthy snacks.
+
+ ","Output: 1. Trail mix with nuts, dried fruit, and dark chocolate chips. 
+2. Apple slices with peanut butter. 
+3. Hard-boiled eggs. 
+4. Hummus with vegetables. 
+5. Whole wheat toast with avocado and feta cheese."
+"Instruction: Make a reasonable assumption to fill the given prompt.
+
+Input: The year is 2100 and _______ ","Output: The year is 2100 and global temperatures have risen significantly, causing major changes in weather patterns and sea level rises. Cities around the world have implemented renewable energy sources and adopted green infrastructure, in order to combat the effects of climate change. The global population is much smaller than it was when the 20th century began, due to greater access to family planning and improved nutrition and healthcare. Global economies have built stronger ties to one another and use technology to facilitate trade and communication. Education systems have improved worldwide, and many of the social and economic inequalities that existed for centuries have been reduced. In short, the world of 2100 is very different from the one we know today."
+"Instruction: Come up with a strategy to manage stress.
+
+ ","Output: A good strategy to manage stress is to practice mindfulness and stress-reducing activities on a regular basis. Incorporate activities such as yoga, tai chi, and meditation into your routine to help reduce stress. Additionally, take time to relax with activities such as reading, listening to music, or spending time in nature. These activities can help keep your mind and body in balance and help reduce stress. 
+Furthermore, try to maintain a healthy lifestyle by eating a balanced diet and getting sufficient sleep. Avoid overworking yourself, and set reasonable expectations for yourself and those around you. Make sure to take regular breaks and set aside time for yourself and your hobbies."
+"Instruction: Write a brief description about Microsoft Excel.
+
+ ","Output: Microsoft Excel is spreadsheet software that allows users to store, organize, analyze, and visualize data. It facilitates data analysis by allowing users to perform functions such as filtering, sorting, and graphing with their data. Excel also provides tools for data visualization and enables users to create interactive dashboards with live data. With its flexible user interface, Microsoft Excel makes it easy to create and analyze data quickly and accurately."
+"Instruction: Where can I go to register to vote in Wisconsin, or to update my registration details, such as my current address?
+
+ ","Output: The MyVote.wi.gov site has several resources to help Wisconsin voters. If you believe you are registered to vote, you can enter in your name and birth date to verify your registration status. Voting rolls do get updated and records that are believed to be outdated do get removed, so it is helpful to verify your status before going to vote. While current rules allow you to register at your polling site on the day of voting, you do need to have appropriate identification and proof of residence which you might not typically have on hand if you weren't expecting to need to register. You can also register to vote ahead of time through this website. This website is provided by the Wisconsin Elections Commission, which is a bipartisan commission charged with implementing Wisconsin's election statutes."
+"Instruction: Explain the concept of blockchain to a 5 year old.
+
+ ","Output: Blockchain is like a very big record that stores all kinds of information. It's like a long list of things that can't be changed, like things people buy or sell or who owes what money to who. That way everyone always knows what is true."
+"Instruction: Create a quippy phrase to describe a prankster.
+
+ ",Output: A mischievous monkey wrench in the machine.
+"Instruction: How long do tennis matches last?
+
+ ","Output: Tennis matches do not have a time limit. They can range anywhere from one hour on the short end to five-six hours on the other extreme. In most cases, the matches finish within a couple of hours. The variation in the duration of tennis matches stems from the scoring system which requires a player to win two or three sets, depending on the tournament, to win the match. For really competitive matches, an individual set can go on for hours if players keep running into ties, prolonging the match."
+"Instruction: Create a realistic dialogue between two people talking about their summer plans.
+
+ ","Output: Person 1: ""So what are your summer plans?""
+
+Person 2: ""I'm planning on travelling to Europe. I'm excited to go and explore different cultures!""
+
+Person 1: ""That sounds amazing! I'm planning my own trip, but I'm going to stay closer to home and visit some states in the US.""
+
+Person 2: ""That's a great idea too! Have you made any decisions about where you're going?""
+
+Person 1: ""I'd love to go to Arizona, California and Oregon. I think that would be a great experience.""
+
+Person 2: ""Sounds amazing. I'm really looking forward to my own trip. I can't wait to see what Europe has to offer."""
+"Instruction: Generate a weekly meal plan.
+
+Input: Person is vegetarian and has allergies to dairy and eggs ","Output: Meal plan for the week: 
+Monday: Vegetarian Quinoa Chili 
+Tuesday: Roasted Broccoli Burritos 
+Wednesday: Vegetable Couscous Primavera 
+Thursday:Veggie Stuffed Portobello Mushrooms 
+Friday: Lentil Tikka Masala 
+Saturday: Pasta Primavera 
+Sunday: Vegetable and Bean Enchiladas"
+"Instruction: Generate an appropriate passphrase for a security system using three random words.
+
+ ",Output: chocolate-passenger-therapist
+"Instruction: Create a title for an article about online gaming.
+
+ ","Output: Exploring the World of Online Gaming: Tips, Tricks, and Advice."
+"Instruction: On a scale of 1 to 5, rate the following employee's performance in the past month.
+
+Input: * Assisted with 3 customer service inquiries
+* Provided technical support to 2 customers
+* Resolved 3 project-related issues ","Output: 4. The employee demonstrated strong performance in the past month. They were successful in assisting customers with their inquiries and provided timely technical support. Additionally, they were able to identify and resolve various project-related issues."

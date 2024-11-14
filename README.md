@@ -9,6 +9,8 @@ Small Language Models (SLMs) are generally considered more compact versions of l
 ```plaintext
 
 Learn-Unlearn-Relearn-Noise-SLMs/
+├── assets/
+│   ├── tokenizer.png                    # BPE tokenization of 'Science fiction' under different noises
 ├── counterfactuals/                     
 │   ├── creating_counterfactuals.py      # script to create counterfactual examples
 │   ├── identify_counterfactuals.py      # script to identify counterfactual samples
@@ -16,7 +18,7 @@ Learn-Unlearn-Relearn-Noise-SLMs/
 │   ├── 50samples_train/                 # training data with 50 sample cases
 │   ├── test/                            # testing dataset
 │   └── train/                           # training dataset
-├── gemma/                               # source, config, train, inference and evaluation for Gemma model
+├── gemma/                               # source, config, train, inference, and evaluation for Gemma
 │   ├── configs/                         # configuration files for Gemma
 │   ├── evaluation/                      # evaluation scripts for Gemma
 │   ├── src/                             # source code specific to Gemma
@@ -26,9 +28,9 @@ Learn-Unlearn-Relearn-Noise-SLMs/
 │   ├── create_incontext_examples.py     # script to create in-context learning examples
 │   ├── test_huggingface.py              # script to test LLMs using Hugging Face
 │   └── test_together.py                 # script to test LLMs using Together API
-├── olmo/                                # source, config, train, inference and evaluation for Olmo model
-├── phi/                                 # source, config, train, inference and evaluation for Phi model
-├── qwen/                                # source, config, train, inference and evaluation for Qwen model
+├── olmo/                                # source, config, train, inference, and evaluation for Olmo
+├── phi/                                 # source, config, train, inference, and evaluation for Phi
+├── qwen/                                # source, config, train, inference, and evaluation for Qwen
 ├── transliteration/                                  
 │   └── transliteration.py               # script for transliteration data generation
 ├── LICENSE                              # license file for the repository

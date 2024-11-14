@@ -26,8 +26,8 @@ Learn-Unlearn-Relearn-Noise-SLMs/
 │   └── train.py                         # training script for Gemma model
 ├── in_context/                          # in-context learning with LLMs and SLMs
 │   ├── create_incontext_examples.py     # script to create in-context learning examples
-│   ├── test_huggingface.py              # script to test LLMs using Hugging Face
-│   └── test_together.py                 # script to test LLMs using Together API
+│   ├── test_huggingface.py              # script to test models using Hugging Face
+│   └── test_together.py                 # script to test models using Together API
 ├── olmo/                                # source, config, train, inference, and evaluation for Olmo
 ├── phi/                                 # source, config, train, inference, and evaluation for Phi
 ├── qwen/                                # source, config, train, inference, and evaluation for Qwen
